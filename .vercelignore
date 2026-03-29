@@ -1,0 +1,7 @@
+finellive.zip
+*.zip
+*.psd
+*.mp4
+cgi-bin/
+.git/
+.htaccess*
